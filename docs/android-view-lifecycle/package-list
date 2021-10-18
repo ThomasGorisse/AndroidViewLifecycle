@@ -1,0 +1,18 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.gorisse.thomas.lifecycle////PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/index.html
+$dokka.location:com.gorisse.thomas.lifecycle//addObserver/androidx.lifecycle.Lifecycle#kotlin.Function1[androidx.lifecycle.LifecycleOwner,kotlin.Unit]?#kotlin.Function1[androidx.lifecycle.LifecycleOwner,kotlin.Unit]?#kotlin.Function1[androidx.lifecycle.LifecycleOwner,kotlin.Unit]?#kotlin.Function1[androidx.lifecycle.LifecycleOwner,kotlin.Unit]?#kotlin.Function1[androidx.lifecycle.LifecycleOwner,kotlin.Unit]?#kotlin.Function1[androidx.lifecycle.LifecycleOwner,kotlin.Unit]?/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/add-observer.html
+$dokka.location:com.gorisse.thomas.lifecycle//doOnCreate/android.view.View#kotlin.Function1[android.view.View,kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-create.html
+$dokka.location:com.gorisse.thomas.lifecycle//doOnDestroy/android.view.View#kotlin.Function1[android.view.View,kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-destroy.html
+$dokka.location:com.gorisse.thomas.lifecycle//doOnPause/android.view.View#kotlin.Function1[android.view.View,kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-pause.html
+$dokka.location:com.gorisse.thomas.lifecycle//doOnResume/android.view.View#kotlin.Function1[android.view.View,kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-resume.html
+$dokka.location:com.gorisse.thomas.lifecycle//doOnStart/android.view.View#kotlin.Function1[android.view.View,kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-start.html
+$dokka.location:com.gorisse.thomas.lifecycle//doOnStop/android.view.View#kotlin.Function1[android.view.View,kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-stop.html
+$dokka.location:com.gorisse.thomas.lifecycle//lifecycle/android.view.View#/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/lifecycle.html
+$dokka.location:com.gorisse.thomas.lifecycle//lifecycleOwner/android.view.View#/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/lifecycle-owner.html
+$dokka.location:com.gorisse.thomas.lifecycle//lifecycleScope/android.view.View#/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/lifecycle-scope.html
+$dokka.location:com.gorisse.thomas.lifecycle//whenCreated/android.view.View#kotlin.coroutines.SuspendFunction1[kotlinx.coroutines.CoroutineScope,TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/when-created.html
+$dokka.location:com.gorisse.thomas.lifecycle//whenResumed/android.view.View#kotlin.coroutines.SuspendFunction1[kotlinx.coroutines.CoroutineScope,TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/when-resumed.html
+$dokka.location:com.gorisse.thomas.lifecycle//whenStarted/android.view.View#kotlin.coroutines.SuspendFunction1[kotlinx.coroutines.CoroutineScope,TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/when-started.html
+com.gorisse.thomas.lifecycle
+
