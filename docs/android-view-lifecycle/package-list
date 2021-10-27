@@ -1,12 +1,14 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
 $dokka.location:com.gorisse.thomas.lifecycle////PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/index.html
+$dokka.location:com.gorisse.thomas.lifecycle//doOnActivityAttach/android.view.View#kotlin.Function1[android.app.Activity,kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-activity-attach.html
 $dokka.location:com.gorisse.thomas.lifecycle//doOnCreate/android.view.View#kotlin.Function1[android.view.View,kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-create.html
 $dokka.location:com.gorisse.thomas.lifecycle//doOnCreate/androidx.lifecycle.Lifecycle#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-create.html
 $dokka.location:com.gorisse.thomas.lifecycle//doOnCreate/androidx.lifecycle.LifecycleOwner#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-create.html
 $dokka.location:com.gorisse.thomas.lifecycle//doOnDestroy/android.view.View#kotlin.Function1[android.view.View,kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-destroy.html
 $dokka.location:com.gorisse.thomas.lifecycle//doOnDestroy/androidx.lifecycle.Lifecycle#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-destroy.html
 $dokka.location:com.gorisse.thomas.lifecycle//doOnDestroy/androidx.lifecycle.LifecycleOwner#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-destroy.html
+$dokka.location:com.gorisse.thomas.lifecycle//doOnFragmentAttach/android.view.View#kotlin.Function1[androidx.fragment.app.Fragment,kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-fragment-attach.html
 $dokka.location:com.gorisse.thomas.lifecycle//doOnPause/android.view.View#kotlin.Function1[android.view.View,kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-pause.html
 $dokka.location:com.gorisse.thomas.lifecycle//doOnPause/androidx.lifecycle.Lifecycle#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-pause.html
 $dokka.location:com.gorisse.thomas.lifecycle//doOnPause/androidx.lifecycle.LifecycleOwner#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-pause.html
@@ -19,6 +21,7 @@ $dokka.location:com.gorisse.thomas.lifecycle//doOnStart/androidx.lifecycle.Lifec
 $dokka.location:com.gorisse.thomas.lifecycle//doOnStop/android.view.View#kotlin.Function1[android.view.View,kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-stop.html
 $dokka.location:com.gorisse.thomas.lifecycle//doOnStop/androidx.lifecycle.Lifecycle#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-stop.html
 $dokka.location:com.gorisse.thomas.lifecycle//doOnStop/androidx.lifecycle.LifecycleOwner#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/do-on-stop.html
+$dokka.location:com.gorisse.thomas.lifecycle//getActivity/android.content.Context#/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/get-activity.html
 $dokka.location:com.gorisse.thomas.lifecycle//lifecycle/android.view.View#/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/lifecycle.html
 $dokka.location:com.gorisse.thomas.lifecycle//lifecycleOwner/android.view.View#/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/lifecycle-owner.html
 $dokka.location:com.gorisse.thomas.lifecycle//lifecycleScope/android.view.View#/PointingToDeclaration/android-view-lifecycle/com.gorisse.thomas.lifecycle/lifecycle-scope.html
